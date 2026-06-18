@@ -84,6 +84,4 @@
 
 ---
 
-## ⚡ Fun Fact
 
-I like building projects that actually solve real-world problems instead of just tutorials.
