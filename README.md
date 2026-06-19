@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-* Currently working on a **Doctor Appointment Booking System**
+* Currently working on a **file orgainizer
 * Exploring **Backend Development** and scalable APIs
 * Learning **Machine Learning & Transformers (LLMs)**
 * Interested in **DevOps and Cloud (GCP)**
