@@ -79,8 +79,8 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: (add later)
+* GitHub: https://github.com/swapnilswami332
+* LinkedIn: https://www.linkedin.com/in/swapnil-swami-6637aa1b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
