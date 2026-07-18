@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Swapnil
+# 👋  Hi, I'm Swapnil
 
 🎓 Engineering student
 💻 Passionate about backend development, AI/ML, and building real-world applications
@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-* Currently working on a **rag pipeline**
+* Currently working on a **Fake news detector**
 * Exploring **Backend Development** and scalable APIs
 * Learning **Machine Learning & Transformers (LLMs)**
 * Interested in **DevOps and Cloud (GCP)**
