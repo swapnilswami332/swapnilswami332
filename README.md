@@ -1,6 +1,6 @@
 # 👋  Hi, I'm Swapnil
 
-🎓 Engineering student
+🎓 Engineering student 
 💻 Passionate about backend development, AI/ML, and building real-world applications
 
 ---
