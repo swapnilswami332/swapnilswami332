@@ -1,4 +1,4 @@
-# 👋  Hi, I'm Swapnil
+# 👋  Hi, I'm Swapnil 
 
 🎓 Engineering student 
 💻 Passionate about backend development, AI/ML, and building real-world applications
