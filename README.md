@@ -9,8 +9,8 @@
 
 * Currently working on a **Fake news detector**
 * Exploring **Backend Development** and scalable APIs
-* Learning **Machine Learning & Transformers (LLMs)**
-* Interested in **DevOps and Cloud (GCP)**
+* Learning **RAG,**
+* Interested in **Software developement**
 
 ---
 
