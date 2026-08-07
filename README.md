@@ -8,8 +8,8 @@
 ## 🚀 About Me
 
 * Currently working on a **Fake news detector**
-* Exploring **Backend Development** and scalable APIs
-* Learning **RAG,**
+* Exploring **Agentic AI** 
+* Learning **FastApi,**
 * Interested in **Software developement**
 
 ---
@@ -46,12 +46,6 @@
 ---
 
 ## 📂 Projects
-
-### 🏥 Doctor Appointment Booking System
-
-* Backend built using FastAPI
-* Handles appointment scheduling and API endpoints
-* Focus on real-world system design
 
 ### 🔊 Text-to-Speech (TTS) Project
 
