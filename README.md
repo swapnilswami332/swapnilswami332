@@ -1,22 +1,119 @@
-# 💫 About Me:
-🔭 I’m currently working on: Engineering TruthLence (real-time NLP misinformation detector) and low-latency LLM systems using Groq API.<br><br>👯 I’m looking to collaborate on: Open-source Generative AI frameworks, RAG architectures, and agentic workflows via LangChain & LangGraph.<br><br>🤝 I’m looking for help with: Optimizing deep learning model inference for real-time production deployment.<br><br>🌱 I’m currently learning: Advanced Retrieval-Augmented Generation (RAG) patterns and multi-agent system orchestration.<br><br>💬 Ask me about: Python, Applied ML/DL, LLM Integration, SQL Analytics, and software design.<br><br>⚡ Fun fact: When I'm not training neural networks, I'm training in MMA, competing in chess, or studying Japanese!
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6C63FF,100:FF4ECD&height=220&section=header&text=Swapnil%20Swami&fontSize=55&fontColor=ffffff&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20AI%2FML%20Explorer%20%E2%80%A2%20Engineering%20Student&descAlignY=58&animation=fadeIn)
 
-## 🌐 Socials:
-[![<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="swapnil-swami-6637aa1b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/swapnil-swami-6637aa1b0?trk=profile-badge">Swapnil Swami</a></div>
-              ](https://linkedin.com/in/https://www.linkedin.com/in/swapnil-swami-6637aa1b0?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/swapnil-swami-6637aa1b0/)) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Swapnil Swami) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swapnilswami332@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&random=false&width=750&lines=Building+intelligent+backend+systems+%F0%9F%9A%80;Exploring+Agentic+AI+and+LLMs+%F0%9F%A4%96;Turning+ideas+into+real-world+applications+%E2%9C%A8)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=swapnilswami332&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=swapnilswami332&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swapnilswami332&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![Profile Views](https://komarev.com/ghpvc/?username=swapnilswami332&label=Profile%20views&color=6c63ff&style=for-the-badge)](https://github.com/swapnilswami332)
+[![GitHub followers](https://img.shields.io/github/followers/swapnilswami332?label=Followers&style=for-the-badge&logo=github&color=00c9ff)](https://github.com/swapnilswami332?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swapnil-swami-6637aa1b0/)
 
-### ✍️ Some nuggets of wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=swapnilswami332&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👨‍💻 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```python
+class Swapnil:
+    role = "Engineering Student"
+    focus = ["Backend Development", "AI/ML", "Real-world Applications"]
+    currently_building = "Fake News Detector"
+    exploring = ["Agentic AI", "Large Language Models", "System Design"]
+    goal = "Build scalable, intelligent systems that make an impact"
+```
+
+- 🔭 Building a **Fake News Detector** with NLP
+- 🌱 Deepening my knowledge of **FastAPI, System Design, and LLMs**
+- 🧠 Interested in the intersection of **AI and backend engineering**
+- 🤝 Open to **collaborations and open-source contributions**
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages & Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Async](https://img.shields.io/badge/Async_Programming-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+
+### AI & Machine Learning
+
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/Natural_Language_Processing-8A2BE2?style=for-the-badge)
+![TTS](https://img.shields.io/badge/Text--to--Speech-FF4ECD?style=for-the-badge&logo=soundcharts&logoColor=white)
+
+### Cloud & Tools
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 Fake News Detector
+
+An intelligent NLP application designed to analyze text and identify potentially misleading news.
+
+**Focus:** NLP · Transformers · Backend APIs
+
+</td>
+<td width="50%" valign="top">
+
+### 🔊 Text-to-Speech System
+
+An ML pipeline that transforms text into a spectrogram and generates audio waveforms with a vocoder.
+
+**Focus:** Machine Learning · Audio Processing · TTS
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=swapnilswami332&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C9FF&text_color=FFFFFF" alt="Swapnil's GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilswami332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Swapnil's most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilswami332&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF4ECD&currStreakLabel=00C9FF" alt="Swapnil's contribution streak" />
+
+</div>
+
+## 🐍 Contribution Game
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/swapnilswami332/swapnilswami332/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/swapnilswami332/swapnilswami332/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+## 🎯 Current Quest
+
+```text
+⚡ Advanced FastAPI        ███████░░░  Exploring
+🧩 System Design           █████░░░░░  Learning
+🤖 LLMs & Agentic AI       ██████░░░░  Building
+☁️ Cloud & DevOps          █████░░░░░  Growing
+```
+
+<div align="center">
+
+### 💬 Let's build something meaningful together
+
+[![GitHub](https://img.shields.io/badge/GitHub-swapnilswami332-181717?style=for-the-badge&logo=github)](https://github.com/swapnilswami332)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swapnil_Swami-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swapnil-swami-6637aa1b0/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF4ECD,50:6C63FF,100:00C9FF&height=120&section=footer)
+
+</div>
