@@ -120,11 +120,11 @@ An NLP application designed to analyze text and identify potentially misleading 
 ## 🎯 Active Missions
 
 ```text
-01  Build intelligent chatbot experiences    ███████░░░  IN PROGRESS
+01  AI Agent & RAG pipeline                   ███████░░░  IN PROGRESS
 02  Master advanced FastAPI patterns          ██████░░░░  LEVELING UP
 03  Explore LLMs and Agentic AI               █████░░░░░  EXPLORING
 04  Learn scalable system design              ████░░░░░░  LOADING
-05  Contribute to open source                 ███░░░░░░░  NEXT QUEST
+05  AWS,MCP,HITL..                            ███░░░░░░░  NEXT QUEST
 ```
 
 <div align="center">
