@@ -19,14 +19,14 @@
 ### `swapnil@github:~$ whoami`
 ```yaml
 name: Swapnil Swami
-role: Engineering Student
-location: India
+role: Fresher
+location: India-Maharashtra-Pune
 focus:
   - Backend Development
   - Artificial Intelligence
   - Real-world Applications
-currently_building: AI Chatbot
-exploring: Agentic AI + LLMs
+currently_building: AI Agent & RAG pipeline
+exploring: Agentic AI ,Azure
 mission: Build technology that makes an impact
 ```
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="swapnil-swami-6637aa1b0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/swapnil-swami-6637aa1b0?trk=profile-badge">Swapnil Swami</a></div>
