@@ -21,14 +21,14 @@
 
 ```yaml
 name: Swapnil Swami
-role: Engineering Student
-location: India
+role: Fresher
+location: Pune, Maharashtra, India
 focus:
   - Backend Development
   - Artificial Intelligence
   - Real-world Applications
-currently_building: TruthLens + Chishiki AI Agent
-exploring: Agentic AI + LLMs
+currently_building: Chishiki AI Agent + RAG pipeline
+exploring: Agentic AI + Azure + MCP + HITL
 mission: Build technology that makes an impact
 ```
 
@@ -162,8 +162,8 @@ Speech synthesis pipeline that turns raw text into natural, human-like speech. T
 01  Advance TruthLens verification pipeline   ████████░░  IN PROGRESS
 02  Build production-ready RAG agents         ███████░░░  BUILDING
 03  Create low-latency LLM experiences        ██████░░░░  ITERATING
-04  Master scalable system design             ████░░░░░░  LEVELING UP
-05  Contribute to open source                 ███░░░░░░░  NEXT QUEST
+04  Grow with Azure and cloud systems         ████░░░░░░  LEVELING UP
+05  Explore MCP, HITL, and open source        ███░░░░░░░  NEXT QUEST
 ```
 
 <div align="center">
