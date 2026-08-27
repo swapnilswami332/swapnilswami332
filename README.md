@@ -146,15 +146,30 @@ Speech synthesis pipeline that turns raw text into natural, human-like speech. T
 </table>
 
 ## 📊 GitHub Control Room
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=swapnilswami332&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF&ring_color=FF4ECD" alt="Swapnil's GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilswami332&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Swapnil's most used languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=swapnilswami332&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=E5E7EB&ring_color=EC4899&include_all_commits=true&count_private=true"
+    height="180"
+    alt="Swapnil's GitHub Stats"
+  />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilswami332&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF4ECD&currStreakLabel=00D4FF" alt="Swapnil's contribution streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilswami332&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=E5E7EB&langs_count=8"
+    height="180"
+    alt="Swapnil's Top Languages"
+  />
+
+  <br />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilswami332&hide_border=true&background=0D1117&ring=7C3AED&fire=EC4899&currStreakLabel=22D3EE&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
+    height="180"
+    alt="Swapnil's GitHub Contribution Streak"
+  />
 
 </div>
+
 
 ## 🎯 Active Missions
 
